@@ -1,0 +1,1 @@
+/home/masa23-wp/deploys/10/wp-config.php
